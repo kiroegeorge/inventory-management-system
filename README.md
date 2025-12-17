@@ -15,5 +15,8 @@ This system is designed to help organize inventory data by maintaining product r
 - Sales record management
 - Organized inventory data
 
+### View System
+ [View Project Files](https://github.com/kiroegeorge/inventory-management-system)
+
 ### Purpose
 This project was developed as an academic and practice project to strengthen database design and data management skills.
